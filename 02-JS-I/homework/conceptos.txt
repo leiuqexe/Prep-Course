@@ -1,0 +1,7 @@
+Variables: Es como si tuvieramos una caja en donde podemos guardar algo para poder usarlo cuando lo necesitemos.
+Strings: Es una palabra o una oración o un texto.
+Funciones: son instrucciones para realizar algo. Para que sea función debe tener una entrada y una salida, una resolución, un cierre.
+Argunmentos: son palabras y valores que vamos a agregar dentro de una función para hecharla a funcionar.
+Return: es la parte de la función donde podemos hacer un cierre de la función, volver al inicio.
+If: es un enunciado o una palabra clave que nos dice que hay que tomar una desición sobre la expresión que vamos a colocar. 
+Valores booleanos: cuando hacemos una expresion esperamos dos posibles respuesta, verdadero o falso, true o false. Cada una de esas palabras nos llevarán a dos lugares diferentes.
