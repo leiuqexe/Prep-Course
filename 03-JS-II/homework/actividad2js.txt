@@ -1,0 +1,4 @@
+for: es como una herramienta para que podamos en pocas lineas hacer mucha tarea que era repetitiva. Tiene 3 partes; empieza con el valor que vas a trabajar, hasta qué valor vamos a trabajar y en que medida se va a ir aunemtando ese valor, ya sea de 1 en 1, 2 en 2. 3 en 3, etc.
+&&: es como un sinónimo de la letra "Y" o "AND" que usamos para juntar dos palabras, pero usadas en la lógica booleana, donde tenemos el vervadero y el falso, sirve para saber si juntando dos valores el resultado puede ser true o false. Tienen un tabla dónde depende el orden presentado de esos valores podrán ser verdaderos o falsos. 
+||: es como un sinónimo de "O" u "OR" que usamos para señalar dos palabras, pero en la lógica booleana, al igual que && sabremos que juntando 2 palabras estas podrán ser verdaderas o falsas.
+!: Es una negación "NO" o "NOT", realiza una negación de una afirmación e invierte sus valores.   
